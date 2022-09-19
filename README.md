@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheeArie111. There's a 75% chance that there's a black cat prowling behind me.
+- 👋 Hi, I’m @TheeArie111. There's a 75% chance that there's a black cat sleeping behind me.
 - 🌱 I’m currently learning Data Analytics & Visualization
 - 💞️ I'm so excited to get started!
 
